@@ -8,19 +8,16 @@ relative_permalinks: false
 
 # Setup
 title:            Books
-tagline:          'Book Blog'
+tagline:          'Blog'
 description:      'Lets read!'
 url:              https://www.meatvehicle.com
 baseurl:          /
 
 #author:
-#  name:           'Mark Otto'
-#  url:            https://twitter.com/mdo
+#  name:           'Kenstogram'
+#  url:            https://github.com/Kenstogram/
 
 paginate:         50
 
-# Custom vars
-#version:          2.1.0
-
 #github:
-#  repo:           https://github.com/poole/hyde
+#  repo:           https://github.com/Kenstogram/Kenstogram.github.io
