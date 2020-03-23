@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best in the World
+title: Currently Reading
 ---
 
 ### The Best in the World by Chris Jericho
