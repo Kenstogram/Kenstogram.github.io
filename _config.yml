@@ -17,7 +17,7 @@ baseurl:          /
 #  name:           'Mark Otto'
 #  url:            https://twitter.com/mdo
 
-#paginate:         1
+paginate:         50
 
 # Custom vars
 #version:          2.1.0
