@@ -11,6 +11,7 @@ title:            Books
 tagline:          'Blog'
 description:      'Lets read!'
 url:              https://www.meatvehicle.com
+relative_url:     https://www.meatvehicle.com
 baseurl:          /
 
 #author:
