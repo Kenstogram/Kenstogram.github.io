@@ -13,6 +13,7 @@ description:      'Lets read!'
 url:              https://www.meatvehicle.com
 relative_url:     https://www.meatvehicle.com
 baseurl:          /
+paginate_path:    /page:num/
 
 #author:
 #  name:           'Kenstogram'
