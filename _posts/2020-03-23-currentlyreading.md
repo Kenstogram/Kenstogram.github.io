@@ -7,7 +7,8 @@ title: Currently Reading
 
 Chris Jericho, Pro Wrestler and lead singer of Fozzy is at it again, and I cant wait to see what he's been up to.
 
-### On the Docket
+
+# On the Docket
 
 ## See You at the Top by Zig Ziglar
 
