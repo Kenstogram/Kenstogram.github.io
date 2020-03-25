@@ -19,7 +19,7 @@ paginate_path:    /page:num/
 #  name:           'Kenstogram'
 #  url:            https://github.com/Kenstogram/
 
-paginate:         2
+paginate:         3
 
 #github:
 #  repo:           https://github.com/Kenstogram/Kenstogram.github.io
