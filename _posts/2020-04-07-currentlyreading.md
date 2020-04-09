@@ -3,9 +3,9 @@ layout: post
 title: Currently Reading
 ---
 
-## The Best in the World by Chris Jericho
+## The Grid: The Fraying Wires Between Americans and Our Energy Future by Gretchen Bakke 
 
-Chris Jericho, Pro Wrestler and lead singer of Fozzy is at it again, and I cant wait to see what he's been up to.
+This book was recommended by Bill Gates about America's fragile power grid infrastructure. 
 
 ## See You at the Top by Zig Ziglar
 
